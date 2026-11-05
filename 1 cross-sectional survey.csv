@@ -1,0 +1,401 @@
+ID,Age,AgeGroup,Sex,Smoking,CoffeeDaily,PhysicalActivity,HighSaltDiet,FamilyHistoryHTN,BMICategory,Hypertension,ProgramArm,BPControlled
+P001,59,45 and above,Male,Yes,Yes,Active,No,No,Normal,No,Usual care,No
+P002,38,Under 45,Male,Yes,Yes,Active,No,No,Overweight,No,Usual care,No
+P003,53,45 and above,Male,Yes,No,Active,Yes,No,Normal,No,Usual care,No
+P004,30,Under 45,Male,No,No,Inactive,Yes,No,Overweight,No,Usual care,No
+P005,68,45 and above,Female,No,Yes,Active,No,Yes,Overweight,No,Usual care,No
+P006,24,Under 45,Male,Yes,Yes,Inactive,Yes,No,Normal,No,Lifestyle program,No
+P007,33,Under 45,Male,Yes,No,Active,Yes,No,Normal,No,Usual care,Yes
+P008,53,45 and above,Female,Yes,Yes,Active,No,Yes,Overweight,Yes,Lifestyle program,No
+P009,20,Under 45,Female,Yes,Yes,Active,No,Yes,Normal,No,Usual care,No
+P010,43,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Usual care,Yes
+P011,27,Under 45,Male,Yes,Yes,Inactive,Yes,No,Normal,Yes,Usual care,Yes
+P012,70,45 and above,Female,No,Yes,Inactive,Yes,No,Normal,No,Lifestyle program,Yes
+P013,36,Under 45,Male,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,Yes
+P014,63,45 and above,Female,No,No,Active,Yes,Yes,Normal,Yes,Lifestyle program,Yes
+P015,36,Under 45,Male,No,No,Inactive,No,No,Overweight,No,Usual care,Yes
+P016,62,45 and above,Female,No,No,Inactive,Yes,No,Normal,Yes,Lifestyle program,Yes
+P017,22,Under 45,Male,Yes,Yes,Inactive,No,No,Normal,Yes,Lifestyle program,Yes
+P018,22,Under 45,Male,No,No,Active,Yes,Yes,Normal,No,Usual care,No
+P019,33,Under 45,Male,No,No,Active,Yes,No,Overweight,No,Lifestyle program,Yes
+P020,48,45 and above,Male,No,Yes,Inactive,Yes,Yes,Normal,Yes,Usual care,No
+P021,28,Under 45,Male,Yes,Yes,Active,No,No,Normal,No,Usual care,Yes
+P022,50,45 and above,Female,No,No,Active,No,Yes,Normal,No,Usual care,No
+P023,46,45 and above,Male,No,No,Inactive,No,Yes,Overweight,Yes,Usual care,Yes
+P024,22,Under 45,Female,No,No,Inactive,No,No,Normal,No,Lifestyle program,Yes
+P025,37,Under 45,Male,No,No,Active,Yes,No,Overweight,No,Lifestyle program,Yes
+P026,44,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Usual care,Yes
+P027,66,45 and above,Male,No,No,Active,Yes,Yes,Normal,Yes,Usual care,No
+P028,36,Under 45,Male,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P029,36,Under 45,Male,No,No,Active,No,Yes,Normal,No,Lifestyle program,Yes
+P030,31,Under 45,Female,No,No,Active,No,Yes,Overweight,No,Usual care,No
+P031,43,Under 45,Male,No,No,Active,Yes,Yes,Overweight,No,Usual care,No
+P032,60,45 and above,Female,Yes,Yes,Inactive,No,Yes,Overweight,Yes,Lifestyle program,Yes
+P033,38,Under 45,Male,No,Yes,Active,Yes,Yes,Normal,Yes,Lifestyle program,Yes
+P034,41,Under 45,Male,No,No,Active,No,No,Normal,No,Usual care,No
+P035,52,45 and above,Female,No,No,Active,No,Yes,Normal,No,Lifestyle program,Yes
+P036,25,Under 45,Female,No,Yes,Active,No,Yes,Normal,No,Usual care,Yes
+P037,49,45 and above,Female,Yes,Yes,Active,No,No,Overweight,Yes,Lifestyle program,Yes
+P038,38,Under 45,Male,Yes,Yes,Active,No,Yes,Overweight,Yes,Usual care,Yes
+P039,50,45 and above,Female,Yes,Yes,Inactive,Yes,Yes,Overweight,Yes,Lifestyle program,Yes
+P040,66,45 and above,Female,No,No,Inactive,No,No,Normal,No,Usual care,No
+P041,31,Under 45,Male,No,No,Active,No,No,Overweight,No,Usual care,Yes
+P042,39,Under 45,Male,No,Yes,Active,No,No,Overweight,No,Lifestyle program,Yes
+P043,40,Under 45,Male,No,No,Active,No,No,Normal,No,Lifestyle program,No
+P044,29,Under 45,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P045,39,Under 45,Male,Yes,No,Active,Yes,Yes,Normal,Yes,Usual care,Yes
+P046,23,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Lifestyle program,Yes
+P047,32,Under 45,Male,No,No,Inactive,No,No,Overweight,No,Usual care,Yes
+P048,46,45 and above,Male,Yes,Yes,Inactive,Yes,No,Normal,Yes,Usual care,No
+P049,42,Under 45,Female,No,No,Active,Yes,No,Normal,Yes,Usual care,Yes
+P050,54,45 and above,Male,Yes,Yes,Inactive,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P051,66,45 and above,Female,No,No,Active,Yes,No,Normal,No,Usual care,No
+P052,41,Under 45,Female,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,No
+P053,70,45 and above,Male,No,No,Inactive,Yes,No,Overweight,No,Usual care,No
+P054,63,45 and above,Male,Yes,Yes,Inactive,Yes,No,Overweight,No,Lifestyle program,Yes
+P055,36,Under 45,Male,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P056,46,45 and above,Male,No,Yes,Inactive,No,No,Normal,Yes,Lifestyle program,Yes
+P057,54,45 and above,Female,No,No,Inactive,No,No,Overweight,No,Lifestyle program,No
+P058,60,45 and above,Female,Yes,Yes,Inactive,No,Yes,Normal,Yes,Usual care,Yes
+P059,36,Under 45,Male,Yes,Yes,Active,Yes,Yes,Overweight,Yes,Usual care,Yes
+P060,48,45 and above,Male,Yes,Yes,Active,Yes,Yes,Overweight,Yes,Lifestyle program,No
+P061,64,45 and above,Female,Yes,No,Active,No,No,Overweight,Yes,Usual care,No
+P062,50,45 and above,Male,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P063,70,45 and above,Female,Yes,No,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P064,41,Under 45,Female,Yes,Yes,Inactive,No,No,Overweight,No,Usual care,No
+P065,51,45 and above,Female,No,No,Active,Yes,Yes,Overweight,Yes,Lifestyle program,Yes
+P066,25,Under 45,Male,Yes,No,Active,No,No,Normal,No,Lifestyle program,No
+P067,32,Under 45,Female,No,No,Active,No,No,Normal,No,Lifestyle program,No
+P068,55,45 and above,Female,No,No,Active,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P069,22,Under 45,Male,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P070,63,45 and above,Male,Yes,Yes,Active,No,No,Overweight,Yes,Usual care,Yes
+P071,40,Under 45,Male,Yes,Yes,Inactive,No,No,Normal,No,Usual care,No
+P072,56,45 and above,Female,No,No,Inactive,Yes,Yes,Overweight,Yes,Usual care,No
+P073,61,45 and above,Female,No,No,Inactive,No,Yes,Overweight,No,Usual care,Yes
+P074,41,Under 45,Female,No,No,Active,No,Yes,Overweight,Yes,Usual care,Yes
+P075,34,Under 45,Female,No,Yes,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P076,24,Under 45,Male,No,No,Active,No,No,Overweight,No,Lifestyle program,Yes
+P077,25,Under 45,Female,No,No,Inactive,Yes,Yes,Normal,Yes,Lifestyle program,Yes
+P078,29,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Lifestyle program,No
+P079,20,Under 45,Male,No,No,Inactive,Yes,No,Overweight,No,Usual care,Yes
+P080,48,45 and above,Male,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,No
+P081,51,45 and above,Male,Yes,Yes,Inactive,No,Yes,Overweight,Yes,Lifestyle program,Yes
+P082,53,45 and above,Female,No,No,Inactive,Yes,No,Normal,No,Usual care,Yes
+P083,54,45 and above,Female,No,No,Inactive,No,No,Overweight,No,Usual care,Yes
+P084,21,Under 45,Male,No,Yes,Active,No,No,Overweight,No,Usual care,No
+P085,41,Under 45,Male,No,No,Active,Yes,No,Overweight,Yes,Lifestyle program,No
+P086,68,45 and above,Male,Yes,Yes,Active,Yes,No,Normal,Yes,Usual care,Yes
+P087,48,45 and above,Female,No,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P088,56,45 and above,Male,No,Yes,Inactive,No,No,Overweight,Yes,Usual care,No
+P089,30,Under 45,Female,Yes,No,Active,Yes,No,Normal,Yes,Usual care,Yes
+P090,56,45 and above,Male,No,Yes,Inactive,No,Yes,Overweight,No,Lifestyle program,Yes
+P091,56,45 and above,Female,No,No,Inactive,No,No,Normal,Yes,Usual care,No
+P092,70,45 and above,Female,Yes,Yes,Active,Yes,No,Overweight,Yes,Usual care,No
+P093,20,Under 45,Male,No,Yes,Active,Yes,No,Normal,No,Usual care,No
+P094,51,45 and above,Female,No,No,Inactive,No,Yes,Normal,Yes,Lifestyle program,Yes
+P095,59,45 and above,Female,Yes,Yes,Inactive,No,No,Overweight,Yes,Lifestyle program,No
+P096,45,45 and above,Female,Yes,Yes,Active,Yes,No,Normal,Yes,Lifestyle program,Yes
+P097,29,Under 45,Female,No,Yes,Active,No,Yes,Overweight,Yes,Usual care,No
+P098,31,Under 45,Male,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P099,38,Under 45,Male,No,No,Active,No,Yes,Normal,No,Usual care,No
+P100,54,45 and above,Female,No,No,Active,No,No,Normal,Yes,Usual care,No
+P101,64,45 and above,Female,No,No,Active,Yes,No,Normal,Yes,Usual care,No
+P102,55,45 and above,Male,Yes,Yes,Active,No,Yes,Normal,Yes,Lifestyle program,Yes
+P103,42,Under 45,Female,No,No,Active,Yes,Yes,Normal,No,Usual care,No
+P104,68,45 and above,Female,Yes,Yes,Active,Yes,No,Normal,Yes,Usual care,No
+P105,37,Under 45,Female,No,No,Active,Yes,Yes,Overweight,Yes,Usual care,No
+P106,67,45 and above,Female,No,Yes,Active,No,Yes,Normal,No,Usual care,No
+P107,45,45 and above,Female,Yes,Yes,Inactive,No,Yes,Normal,No,Lifestyle program,No
+P108,45,45 and above,Male,No,No,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P109,65,45 and above,Female,Yes,Yes,Active,Yes,No,Normal,Yes,Usual care,Yes
+P110,63,45 and above,Female,No,No,Active,No,No,Overweight,No,Usual care,No
+P111,27,Under 45,Male,No,No,Active,No,No,Normal,No,Usual care,No
+P112,68,45 and above,Female,No,Yes,Inactive,Yes,No,Overweight,Yes,Usual care,Yes
+P113,28,Under 45,Female,No,No,Inactive,Yes,No,Overweight,No,Usual care,No
+P114,41,Under 45,Female,No,No,Active,No,No,Overweight,No,Lifestyle program,No
+P115,50,45 and above,Female,No,No,Active,No,Yes,Normal,Yes,Lifestyle program,No
+P116,50,45 and above,Female,Yes,Yes,Active,No,No,Overweight,No,Usual care,No
+P117,62,45 and above,Female,No,No,Active,Yes,Yes,Normal,Yes,Usual care,No
+P118,50,45 and above,Male,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P119,39,Under 45,Male,No,No,Active,Yes,No,Overweight,No,Usual care,No
+P120,44,Under 45,Male,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P121,65,45 and above,Female,Yes,Yes,Active,Yes,No,Normal,Yes,Lifestyle program,No
+P122,43,Under 45,Male,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P123,54,45 and above,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P124,31,Under 45,Female,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P125,20,Under 45,Male,No,No,Active,No,No,Normal,Yes,Lifestyle program,No
+P126,29,Under 45,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P127,22,Under 45,Female,Yes,Yes,Inactive,No,Yes,Normal,Yes,Usual care,No
+P128,35,Under 45,Female,No,Yes,Inactive,No,No,Overweight,No,Lifestyle program,Yes
+P129,32,Under 45,Female,Yes,No,Inactive,No,No,Normal,No,Usual care,No
+P130,50,45 and above,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P131,63,45 and above,Female,No,No,Active,No,No,Overweight,No,Usual care,No
+P132,53,45 and above,Female,Yes,Yes,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P133,54,45 and above,Male,No,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P134,61,45 and above,Female,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P135,50,45 and above,Male,No,Yes,Inactive,No,No,Overweight,No,Usual care,No
+P136,34,Under 45,Male,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P137,20,Under 45,Male,No,No,Active,Yes,Yes,Normal,No,Usual care,Yes
+P138,46,45 and above,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P139,28,Under 45,Female,No,No,Active,No,No,Normal,No,Usual care,Yes
+P140,43,Under 45,Male,No,No,Inactive,No,No,Normal,No,Lifestyle program,Yes
+P141,33,Under 45,Female,No,Yes,Inactive,No,No,Normal,No,Usual care,Yes
+P142,28,Under 45,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P143,65,45 and above,Male,No,No,Inactive,No,No,Overweight,Yes,Usual care,Yes
+P144,70,45 and above,Female,Yes,Yes,Active,No,Yes,Normal,Yes,Lifestyle program,Yes
+P145,26,Under 45,Female,No,Yes,Inactive,No,No,Normal,No,Lifestyle program,Yes
+P146,37,Under 45,Male,No,No,Active,Yes,No,Normal,No,Usual care,No
+P147,58,45 and above,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P148,55,45 and above,Male,No,No,Inactive,No,No,Normal,No,Usual care,Yes
+P149,49,45 and above,Female,Yes,No,Active,No,No,Overweight,Yes,Usual care,Yes
+P150,55,45 and above,Male,Yes,Yes,Active,Yes,No,Normal,Yes,Lifestyle program,Yes
+P151,37,Under 45,Male,No,No,Active,Yes,Yes,Normal,No,Lifestyle program,Yes
+P152,59,45 and above,Female,No,No,Active,Yes,No,Normal,Yes,Lifestyle program,Yes
+P153,69,45 and above,Male,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,No
+P154,62,45 and above,Female,No,Yes,Inactive,No,No,Overweight,No,Lifestyle program,No
+P155,23,Under 45,Male,No,No,Active,Yes,No,Overweight,Yes,Lifestyle program,No
+P156,68,45 and above,Male,No,Yes,Inactive,No,Yes,Overweight,Yes,Lifestyle program,No
+P157,41,Under 45,Male,No,Yes,Active,No,No,Overweight,No,Lifestyle program,No
+P158,36,Under 45,Male,Yes,Yes,Active,No,No,Overweight,No,Lifestyle program,Yes
+P159,70,45 and above,Male,No,No,Inactive,No,No,Overweight,No,Lifestyle program,Yes
+P160,54,45 and above,Female,No,No,Inactive,Yes,Yes,Normal,Yes,Usual care,Yes
+P161,64,45 and above,Male,No,Yes,Inactive,No,No,Overweight,No,Usual care,Yes
+P162,36,Under 45,Female,No,No,Active,No,No,Normal,No,Usual care,No
+P163,38,Under 45,Female,No,No,Active,No,No,Normal,No,Lifestyle program,No
+P164,35,Under 45,Male,No,No,Active,Yes,No,Overweight,No,Usual care,No
+P165,56,45 and above,Male,No,No,Active,No,No,Overweight,No,Lifestyle program,No
+P166,60,45 and above,Female,Yes,Yes,Inactive,Yes,No,Overweight,Yes,Usual care,Yes
+P167,58,45 and above,Male,Yes,Yes,Active,No,No,Overweight,Yes,Lifestyle program,No
+P168,58,45 and above,Male,No,No,Active,No,No,Normal,Yes,Usual care,Yes
+P169,49,45 and above,Male,No,Yes,Active,Yes,No,Normal,Yes,Usual care,No
+P170,57,45 and above,Female,Yes,Yes,Inactive,No,Yes,Overweight,Yes,Lifestyle program,Yes
+P171,26,Under 45,Female,No,No,Active,Yes,Yes,Normal,No,Usual care,Yes
+P172,26,Under 45,Male,No,No,Active,Yes,No,Normal,No,Usual care,Yes
+P173,59,45 and above,Male,No,No,Inactive,No,No,Overweight,Yes,Usual care,Yes
+P174,69,45 and above,Female,Yes,Yes,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P175,22,Under 45,Male,No,No,Active,Yes,No,Overweight,Yes,Usual care,Yes
+P176,52,45 and above,Female,No,No,Active,No,Yes,Normal,Yes,Usual care,No
+P177,54,45 and above,Female,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,Yes
+P178,43,Under 45,Male,No,No,Active,Yes,Yes,Normal,No,Usual care,No
+P179,37,Under 45,Male,No,Yes,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P180,66,45 and above,Male,No,No,Active,No,No,Normal,No,Usual care,No
+P181,67,45 and above,Male,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P182,25,Under 45,Male,No,No,Active,No,No,Normal,No,Usual care,No
+P183,68,45 and above,Female,No,No,Inactive,Yes,No,Normal,Yes,Lifestyle program,No
+P184,35,Under 45,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P185,27,Under 45,Male,Yes,Yes,Inactive,Yes,No,Normal,Yes,Usual care,No
+P186,27,Under 45,Female,No,No,Active,Yes,No,Overweight,No,Usual care,No
+P187,41,Under 45,Male,Yes,No,Inactive,Yes,No,Normal,No,Usual care,No
+P188,36,Under 45,Male,Yes,Yes,Active,No,No,Normal,Yes,Usual care,Yes
+P189,65,45 and above,Female,Yes,No,Active,No,No,Overweight,Yes,Lifestyle program,Yes
+P190,60,45 and above,Male,No,No,Inactive,Yes,No,Normal,No,Usual care,No
+P191,63,45 and above,Male,Yes,No,Active,Yes,Yes,Normal,No,Usual care,No
+P192,27,Under 45,Female,Yes,No,Active,No,Yes,Normal,Yes,Lifestyle program,No
+P193,41,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Usual care,No
+P194,58,45 and above,Female,No,Yes,Active,Yes,No,Normal,Yes,Usual care,Yes
+P195,22,Under 45,Male,Yes,No,Active,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P196,50,45 and above,Male,No,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P197,26,Under 45,Female,No,No,Active,Yes,No,Normal,No,Lifestyle program,No
+P198,36,Under 45,Male,Yes,Yes,Inactive,No,No,Normal,No,Lifestyle program,Yes
+P199,24,Under 45,Female,Yes,Yes,Inactive,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P200,63,45 and above,Male,Yes,No,Inactive,No,Yes,Normal,Yes,Lifestyle program,Yes
+P201,45,45 and above,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P202,22,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Lifestyle program,Yes
+P203,40,Under 45,Male,Yes,Yes,Active,No,Yes,Normal,Yes,Usual care,No
+P204,32,Under 45,Male,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,Yes
+P205,49,45 and above,Male,No,No,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P206,45,45 and above,Female,No,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P207,56,45 and above,Male,No,No,Inactive,Yes,Yes,Overweight,Yes,Usual care,Yes
+P208,40,Under 45,Female,Yes,No,Inactive,No,Yes,Normal,Yes,Lifestyle program,Yes
+P209,67,45 and above,Female,No,No,Inactive,No,Yes,Normal,Yes,Usual care,Yes
+P210,39,Under 45,Female,No,Yes,Active,Yes,Yes,Normal,No,Usual care,No
+P211,40,Under 45,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P212,70,45 and above,Male,Yes,Yes,Inactive,No,No,Normal,Yes,Usual care,No
+P213,70,45 and above,Female,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,No
+P214,48,45 and above,Male,No,No,Active,No,No,Normal,No,Lifestyle program,No
+P215,27,Under 45,Male,No,Yes,Active,No,Yes,Normal,No,Lifestyle program,Yes
+P216,53,45 and above,Female,No,No,Inactive,No,No,Normal,Yes,Usual care,Yes
+P217,56,45 and above,Male,No,No,Active,Yes,No,Normal,No,Usual care,No
+P218,43,Under 45,Male,No,No,Active,Yes,Yes,Normal,Yes,Usual care,No
+P219,28,Under 45,Male,No,No,Inactive,No,No,Normal,No,Usual care,Yes
+P220,30,Under 45,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P221,37,Under 45,Male,No,No,Active,No,Yes,Normal,No,Lifestyle program,Yes
+P222,25,Under 45,Male,No,No,Active,No,No,Overweight,No,Lifestyle program,Yes
+P223,55,45 and above,Male,Yes,No,Inactive,No,No,Normal,Yes,Lifestyle program,Yes
+P224,58,45 and above,Male,Yes,No,Inactive,No,No,Normal,Yes,Usual care,No
+P225,70,45 and above,Male,No,No,Inactive,No,Yes,Overweight,No,Lifestyle program,Yes
+P226,56,45 and above,Male,No,No,Active,Yes,No,Normal,Yes,Usual care,No
+P227,70,45 and above,Male,No,No,Active,Yes,No,Normal,No,Usual care,No
+P228,70,45 and above,Male,Yes,Yes,Active,No,No,Normal,Yes,Lifestyle program,Yes
+P229,70,45 and above,Male,Yes,Yes,Inactive,No,No,Normal,Yes,Usual care,No
+P230,32,Under 45,Female,No,Yes,Inactive,No,No,Overweight,No,Lifestyle program,Yes
+P231,48,45 and above,Male,No,No,Inactive,Yes,No,Normal,Yes,Lifestyle program,Yes
+P232,40,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Usual care,Yes
+P233,64,45 and above,Male,No,No,Active,No,No,Normal,No,Usual care,Yes
+P234,39,Under 45,Female,No,No,Active,No,Yes,Normal,No,Lifestyle program,No
+P235,29,Under 45,Female,No,No,Inactive,No,Yes,Normal,No,Usual care,No
+P236,49,45 and above,Female,Yes,Yes,Active,Yes,Yes,Normal,Yes,Usual care,No
+P237,40,Under 45,Male,No,No,Active,Yes,No,Overweight,No,Lifestyle program,Yes
+P238,22,Under 45,Male,No,No,Inactive,No,No,Normal,No,Usual care,No
+P239,69,45 and above,Male,Yes,No,Inactive,No,No,Normal,Yes,Usual care,No
+P240,60,45 and above,Female,Yes,Yes,Active,No,Yes,Overweight,Yes,Lifestyle program,Yes
+P241,56,45 and above,Male,No,No,Active,No,No,Overweight,No,Lifestyle program,Yes
+P242,57,45 and above,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P243,49,45 and above,Female,No,Yes,Inactive,No,Yes,Overweight,No,Lifestyle program,Yes
+P244,24,Under 45,Male,No,Yes,Active,Yes,No,Normal,Yes,Lifestyle program,No
+P245,46,45 and above,Female,No,No,Inactive,Yes,No,Overweight,No,Lifestyle program,No
+P246,56,45 and above,Female,No,No,Inactive,No,No,Overweight,No,Lifestyle program,Yes
+P247,60,45 and above,Male,No,No,Inactive,No,Yes,Normal,No,Lifestyle program,Yes
+P248,37,Under 45,Male,No,No,Active,Yes,No,Normal,Yes,Lifestyle program,No
+P249,56,45 and above,Female,No,No,Active,No,No,Normal,Yes,Usual care,No
+P250,42,Under 45,Male,Yes,Yes,Inactive,No,No,Overweight,No,Usual care,No
+P251,38,Under 45,Female,No,No,Active,No,Yes,Normal,No,Usual care,Yes
+P252,30,Under 45,Female,No,Yes,Active,Yes,Yes,Overweight,No,Usual care,No
+P253,52,45 and above,Male,No,No,Inactive,No,No,Normal,No,Usual care,No
+P254,55,45 and above,Male,No,No,Inactive,Yes,Yes,Normal,Yes,Lifestyle program,No
+P255,68,45 and above,Male,Yes,Yes,Inactive,Yes,No,Overweight,No,Usual care,No
+P256,49,45 and above,Male,No,No,Inactive,No,No,Normal,No,Lifestyle program,Yes
+P257,70,45 and above,Male,Yes,Yes,Active,No,No,Normal,No,Usual care,No
+P258,21,Under 45,Male,No,No,Inactive,No,No,Overweight,No,Lifestyle program,No
+P259,34,Under 45,Male,No,No,Inactive,No,No,Normal,No,Usual care,Yes
+P260,27,Under 45,Male,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,No
+P261,49,45 and above,Female,Yes,Yes,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P262,57,45 and above,Male,No,No,Inactive,Yes,No,Normal,Yes,Usual care,No
+P263,44,Under 45,Female,No,Yes,Active,No,No,Normal,No,Usual care,Yes
+P264,26,Under 45,Male,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P265,37,Under 45,Female,Yes,Yes,Active,Yes,No,Normal,No,Usual care,No
+P266,43,Under 45,Female,No,No,Active,No,No,Overweight,No,Lifestyle program,Yes
+P267,27,Under 45,Male,Yes,Yes,Active,Yes,No,Normal,No,Usual care,Yes
+P268,54,45 and above,Female,Yes,Yes,Inactive,Yes,No,Normal,Yes,Usual care,No
+P269,38,Under 45,Male,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P270,28,Under 45,Female,No,No,Inactive,Yes,No,Overweight,No,Lifestyle program,Yes
+P271,44,Under 45,Male,No,No,Inactive,No,Yes,Normal,Yes,Lifestyle program,Yes
+P272,45,45 and above,Male,No,Yes,Inactive,No,No,Normal,Yes,Usual care,No
+P273,55,45 and above,Female,Yes,Yes,Inactive,Yes,Yes,Normal,Yes,Usual care,No
+P274,41,Under 45,Female,Yes,Yes,Active,Yes,No,Normal,No,Lifestyle program,No
+P275,25,Under 45,Male,No,No,Inactive,No,Yes,Normal,Yes,Lifestyle program,Yes
+P276,27,Under 45,Female,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,No
+P277,65,45 and above,Female,No,No,Inactive,No,No,Normal,No,Lifestyle program,Yes
+P278,60,45 and above,Male,No,No,Inactive,No,No,Overweight,Yes,Lifestyle program,No
+P279,55,45 and above,Female,No,No,Inactive,No,No,Normal,Yes,Usual care,Yes
+P280,24,Under 45,Male,No,No,Active,Yes,Yes,Overweight,No,Usual care,Yes
+P281,20,Under 45,Female,No,Yes,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P282,62,45 and above,Female,Yes,Yes,Inactive,No,No,Overweight,Yes,Lifestyle program,No
+P283,57,45 and above,Male,No,No,Active,No,Yes,Normal,No,Lifestyle program,Yes
+P284,36,Under 45,Male,No,Yes,Active,No,No,Normal,No,Lifestyle program,Yes
+P285,68,45 and above,Male,Yes,No,Active,Yes,Yes,Normal,Yes,Usual care,No
+P286,38,Under 45,Male,No,No,Active,No,No,Overweight,No,Lifestyle program,Yes
+P287,54,45 and above,Female,No,Yes,Active,No,No,Normal,Yes,Lifestyle program,Yes
+P288,31,Under 45,Female,No,No,Active,Yes,No,Overweight,No,Lifestyle program,Yes
+P289,35,Under 45,Male,Yes,Yes,Active,No,Yes,Normal,Yes,Lifestyle program,Yes
+P290,63,45 and above,Female,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,No
+P291,66,45 and above,Female,No,No,Active,No,No,Normal,No,Usual care,Yes
+P292,70,45 and above,Female,No,Yes,Active,Yes,No,Overweight,Yes,Usual care,No
+P293,63,45 and above,Female,No,No,Inactive,No,Yes,Normal,Yes,Lifestyle program,No
+P294,29,Under 45,Female,No,Yes,Active,Yes,No,Normal,No,Usual care,Yes
+P295,64,45 and above,Male,Yes,No,Active,Yes,Yes,Normal,Yes,Usual care,No
+P296,52,45 and above,Male,No,No,Inactive,No,No,Normal,No,Lifestyle program,No
+P297,41,Under 45,Female,No,No,Active,No,Yes,Normal,No,Usual care,No
+P298,22,Under 45,Male,Yes,Yes,Inactive,Yes,Yes,Overweight,Yes,Lifestyle program,Yes
+P299,20,Under 45,Female,Yes,Yes,Active,No,Yes,Normal,Yes,Usual care,No
+P300,40,Under 45,Female,No,No,Inactive,Yes,No,Normal,No,Lifestyle program,Yes
+P301,36,Under 45,Female,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P302,31,Under 45,Male,Yes,Yes,Active,No,Yes,Overweight,No,Lifestyle program,Yes
+P303,53,45 and above,Female,No,No,Inactive,Yes,No,Normal,No,Usual care,No
+P304,52,45 and above,Female,No,Yes,Active,Yes,No,Normal,Yes,Lifestyle program,No
+P305,40,Under 45,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P306,30,Under 45,Female,No,No,Active,Yes,No,Overweight,No,Usual care,Yes
+P307,52,45 and above,Male,Yes,Yes,Inactive,Yes,No,Overweight,Yes,Usual care,No
+P308,51,45 and above,Male,Yes,No,Active,No,No,Overweight,Yes,Lifestyle program,No
+P309,54,45 and above,Male,No,No,Active,No,No,Normal,Yes,Usual care,Yes
+P310,69,45 and above,Male,Yes,Yes,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P311,38,Under 45,Male,No,Yes,Active,No,No,Overweight,No,Usual care,No
+P312,32,Under 45,Male,No,No,Inactive,Yes,No,Normal,Yes,Lifestyle program,No
+P313,56,45 and above,Female,Yes,Yes,Active,No,No,Overweight,Yes,Usual care,Yes
+P314,26,Under 45,Male,No,No,Active,No,No,Normal,No,Usual care,Yes
+P315,26,Under 45,Female,No,Yes,Active,Yes,No,Overweight,Yes,Usual care,Yes
+P316,63,45 and above,Male,Yes,No,Inactive,No,No,Normal,No,Usual care,Yes
+P317,70,45 and above,Male,Yes,No,Active,No,Yes,Normal,No,Lifestyle program,Yes
+P318,22,Under 45,Female,No,Yes,Active,Yes,No,Overweight,Yes,Usual care,Yes
+P319,44,Under 45,Male,No,Yes,Active,No,No,Normal,No,Usual care,No
+P320,57,45 and above,Male,No,Yes,Active,Yes,No,Normal,No,Lifestyle program,No
+P321,68,45 and above,Male,Yes,No,Active,No,No,Normal,Yes,Lifestyle program,No
+P322,65,45 and above,Male,Yes,Yes,Active,No,Yes,Overweight,Yes,Usual care,Yes
+P323,31,Under 45,Female,No,No,Inactive,No,No,Normal,No,Usual care,Yes
+P324,26,Under 45,Male,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,Yes
+P325,24,Under 45,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P326,46,45 and above,Female,Yes,Yes,Inactive,Yes,No,Overweight,Yes,Lifestyle program,No
+P327,60,45 and above,Male,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P328,69,45 and above,Male,No,No,Inactive,No,No,Overweight,Yes,Lifestyle program,No
+P329,31,Under 45,Male,No,Yes,Inactive,Yes,No,Overweight,No,Usual care,Yes
+P330,27,Under 45,Female,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P331,48,45 and above,Female,No,No,Inactive,Yes,Yes,Normal,No,Lifestyle program,No
+P332,62,45 and above,Female,Yes,Yes,Active,Yes,No,Normal,No,Usual care,No
+P333,39,Under 45,Female,No,No,Active,No,No,Overweight,No,Usual care,Yes
+P334,54,45 and above,Female,No,No,Inactive,No,No,Overweight,No,Usual care,No
+P335,54,45 and above,Female,Yes,Yes,Active,Yes,No,Overweight,Yes,Usual care,No
+P336,23,Under 45,Female,No,No,Inactive,No,Yes,Normal,No,Usual care,No
+P337,24,Under 45,Male,Yes,Yes,Inactive,Yes,No,Overweight,Yes,Usual care,No
+P338,28,Under 45,Female,No,No,Active,No,No,Normal,No,Usual care,Yes
+P339,51,45 and above,Male,No,No,Active,Yes,Yes,Normal,Yes,Lifestyle program,Yes
+P340,67,45 and above,Female,Yes,Yes,Active,No,No,Normal,No,Usual care,No
+P341,42,Under 45,Female,No,Yes,Active,Yes,Yes,Overweight,Yes,Usual care,No
+P342,23,Under 45,Female,No,No,Active,Yes,No,Overweight,No,Usual care,No
+P343,67,45 and above,Female,No,No,Inactive,No,No,Overweight,Yes,Usual care,No
+P344,38,Under 45,Male,No,No,Active,Yes,No,Normal,Yes,Lifestyle program,No
+P345,61,45 and above,Male,No,No,Active,Yes,No,Overweight,Yes,Lifestyle program,No
+P346,21,Under 45,Male,No,No,Active,Yes,No,Normal,No,Usual care,Yes
+P347,30,Under 45,Female,No,No,Active,Yes,No,Normal,Yes,Lifestyle program,Yes
+P348,33,Under 45,Male,No,No,Active,Yes,Yes,Normal,Yes,Lifestyle program,Yes
+P349,20,Under 45,Male,No,No,Active,Yes,No,Normal,No,Usual care,Yes
+P350,30,Under 45,Female,No,No,Active,Yes,No,Normal,No,Usual care,Yes
+P351,49,45 and above,Male,No,No,Active,Yes,No,Normal,Yes,Lifestyle program,Yes
+P352,60,45 and above,Female,No,No,Active,Yes,Yes,Overweight,Yes,Lifestyle program,Yes
+P353,33,Under 45,Male,No,No,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P354,24,Under 45,Male,Yes,No,Inactive,No,Yes,Overweight,Yes,Usual care,Yes
+P355,39,Under 45,Female,No,Yes,Active,Yes,No,Normal,No,Usual care,No
+P356,25,Under 45,Male,Yes,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P357,66,45 and above,Female,No,Yes,Active,No,No,Normal,No,Usual care,No
+P358,47,45 and above,Male,Yes,No,Active,No,No,Normal,Yes,Lifestyle program,Yes
+P359,56,45 and above,Female,No,No,Inactive,Yes,No,Normal,No,Usual care,Yes
+P360,30,Under 45,Male,Yes,Yes,Active,No,No,Normal,No,Lifestyle program,Yes
+P361,44,Under 45,Male,No,No,Active,No,No,Overweight,No,Usual care,Yes
+P362,46,45 and above,Male,No,No,Active,Yes,Yes,Overweight,No,Usual care,No
+P363,56,45 and above,Male,No,No,Active,No,No,Normal,No,Lifestyle program,No
+P364,22,Under 45,Male,No,No,Active,Yes,Yes,Overweight,No,Usual care,Yes
+P365,39,Under 45,Female,No,Yes,Active,Yes,Yes,Overweight,No,Lifestyle program,No
+P366,29,Under 45,Male,No,No,Active,No,No,Overweight,No,Lifestyle program,Yes
+P367,67,45 and above,Male,No,No,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P368,37,Under 45,Female,No,No,Active,Yes,No,Normal,No,Lifestyle program,No
+P369,60,45 and above,Female,No,No,Inactive,Yes,No,Overweight,Yes,Usual care,Yes
+P370,56,45 and above,Female,Yes,Yes,Inactive,Yes,No,Normal,Yes,Usual care,No
+P371,23,Under 45,Male,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,Yes
+P372,62,45 and above,Female,Yes,Yes,Inactive,No,No,Overweight,Yes,Lifestyle program,Yes
+P373,39,Under 45,Male,Yes,Yes,Inactive,Yes,No,Normal,Yes,Usual care,No
+P374,29,Under 45,Female,Yes,Yes,Active,Yes,No,Normal,Yes,Usual care,Yes
+P375,59,45 and above,Female,Yes,Yes,Inactive,Yes,No,Normal,Yes,Usual care,No
+P376,45,45 and above,Female,No,No,Active,Yes,No,Normal,Yes,Lifestyle program,Yes
+P377,45,45 and above,Male,Yes,Yes,Active,No,Yes,Overweight,Yes,Usual care,Yes
+P378,63,45 and above,Male,Yes,Yes,Inactive,No,No,Overweight,Yes,Usual care,No
+P379,20,Under 45,Male,No,Yes,Active,Yes,No,Normal,No,Lifestyle program,Yes
+P380,47,45 and above,Female,No,Yes,Inactive,No,Yes,Overweight,No,Lifestyle program,No
+P381,38,Under 45,Female,No,No,Inactive,No,Yes,Normal,Yes,Usual care,Yes
+P382,60,45 and above,Male,No,No,Active,No,No,Normal,Yes,Lifestyle program,Yes
+P383,25,Under 45,Female,No,No,Inactive,No,No,Overweight,No,Lifestyle program,No
+P384,63,45 and above,Male,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
+P385,27,Under 45,Female,No,No,Active,No,Yes,Normal,No,Usual care,No
+P386,36,Under 45,Male,Yes,Yes,Inactive,No,Yes,Overweight,Yes,Usual care,Yes
+P387,62,45 and above,Female,Yes,Yes,Inactive,No,No,Overweight,Yes,Usual care,Yes
+P388,51,45 and above,Male,Yes,No,Inactive,No,No,Overweight,No,Lifestyle program,Yes
+P389,67,45 and above,Male,Yes,Yes,Active,Yes,Yes,Normal,Yes,Lifestyle program,Yes
+P390,47,45 and above,Female,No,No,Inactive,Yes,No,Overweight,Yes,Lifestyle program,No
+P391,50,45 and above,Male,Yes,No,Active,No,No,Normal,No,Usual care,No
+P392,30,Under 45,Male,No,No,Active,No,No,Normal,No,Usual care,Yes
+P393,58,45 and above,Male,No,No,Inactive,No,Yes,Overweight,Yes,Lifestyle program,No
+P394,56,45 and above,Male,No,No,Inactive,No,No,Normal,No,Lifestyle program,No
+P395,54,45 and above,Female,No,No,Active,Yes,No,Normal,Yes,Usual care,Yes
+P396,64,45 and above,Female,No,No,Active,No,No,Overweight,No,Usual care,No
+P397,21,Under 45,Female,No,No,Active,Yes,No,Normal,No,Lifestyle program,No
+P398,21,Under 45,Female,Yes,Yes,Active,No,Yes,Normal,No,Lifestyle program,Yes
+P399,46,45 and above,Female,Yes,Yes,Active,No,No,Normal,No,Usual care,No
+P400,68,45 and above,Female,No,No,Active,No,No,Normal,No,Lifestyle program,Yes
